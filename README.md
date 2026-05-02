@@ -1,21 +1,12 @@
 # Web Development final project - Sunshine Academy Website
 
-## 📋 Project Overview
+## Project Overview
 This project is a responsive, multi-page school website for "Sunshine Academy" that I conceptualized, built, and deployed from scratch. The website showcases modern web development practices with a focus on user experience, responsiveness, and real-world deployment.
 
-### Live Website: 
-https://polceze.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+### Demo Website: 
+https://polceze.github.io/show-static-website/
 
-## 🎯 Project Purpose
-This project was designed to challenge myself to:
-
-- Conceptualize a complete website structure and design system
-- Build a multi-page website with interactive elements
-- Implement responsive design for all device sizes
-- Deploy a production-ready website using GitHub Pages
-- Demonstrate real-world web development skills
-
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
@@ -34,34 +25,34 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Fi
 │   └── teacher3.jpg
 └── README.md               # Project documentation
 ``` 
-## ✨ Features
-### 🎨 Design & User Experience
+## Features
+### Design & User Experience
 - School-appropriate color theme (Blue & Gold palette)
 - Clean, professional layout suitable for educational institutions
 - Consistent branding across all pages
 - Smooth animations and hover effects
 
-### 📱 Responsive Design
+### Responsive Design
 - Mobile-first approach with breakpoints for all screen sizes
 - Hamburger navigation menu for mobile devices
 - Flexible grid layouts that adapt to different viewports
 - Optimized typography and spacing for readability
 
-### ⚡ Interactive Elements
+### Interactive Elements
 - Image slider on homepage with automatic transitions
 - Mobile-friendly navigation with smooth toggle
 - Contact form with client-side validation
 - Staff profile cards with hover effects
 - Active state indicators for navigation
 
-### 🌐 Technical Implementation
+### Technical Implementation
 - Semantic HTML5 markup for accessibility
 - CSS Grid & Flexbox for modern layouts
 - Vanilla JavaScript for interactivity
 - GitHub Pages deployment configuration
 - Cross-browser compatibilit
 
-## 🚀 Pages Overview
+## Pages Overview
 ### 1. Homepage (index.html)
 - Hero section with automatic image slider
 - Mission and vision statement
@@ -78,13 +69,13 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Fi
 - School contact information
 - Professional layout with clear call-to-action
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5 - Semantic markup and structure
 - CSS3 - Responsive styling with Flexbox/Grid
 - JavaScript - Interactive functionality
 - GitHub Pages - Deployment and hosting
 
-## 📊 Key Learning Outcomes
+## Key Learning Outcomes
 - Through this project, I demonstrated proficiency in:
 - Full-stack web development from concept to deployment
 - Responsive web design principles and implementation
@@ -93,33 +84,25 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Fi
 - Project planning and execution
 - Problem-solving and debugging skills
 
-## 🔧 Installation & Setup
+## Installation & Setup
 - To run this project locally:
 
 ```text
 # Clone the repository
-git clone https://github.com/polceze/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
+git clone https://github.com/Polceze/show-static-website.git
 
 # Navigate to the project directory
-cd plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl
+cd show-static-website
 
 # Open index.html in your browser
 open index.html
 ```
-## 🌟 Future Enhancements
-- Potential improvements for the website:
+## Potential Enhancements
 - Backend integration for contact form submissions
 - Blog/news section for school updates
 - Student portal/login functionality
 - Event calendar integration
 - Photo gallery with lightbox functionality
 
-## 📞 Contact
-This project was developed as part of the PLP Web Technologies curriculum, demonstrating comprehensive web development skills and real-world deployment capabilities.
 
-- Developer: Paul Ochieng 
-- Project Repository: [GitHub Link]
-Live Demo: https://polceze.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
-
-*This project represents a complete, production-ready website built with modern web standards and best practices.*
 
