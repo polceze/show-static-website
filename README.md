@@ -1,7 +1,7 @@
-# Web Development final project - Sunshine Academy Website
+# Sunshine Academy Website
 
 ## Project Overview
-This project is a responsive, multi-page school website for "Sunshine Academy" that I conceptualized, built, and deployed from scratch. The website showcases modern web development practices with a focus on user experience, responsiveness, and real-world deployment.
+This project is a responsive, multi-page school website for "Sunshine Academy".
 
 ### Demo Website: 
 https://polceze.github.io/show-static-website/
@@ -9,7 +9,7 @@ https://polceze.github.io/show-static-website/
 ## Project Structure
 
 ```text
-plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+show-static-website/
 │
 ├── index.html              # Homepage with hero slider
 ├── about.html              # About page with staff profiles
@@ -74,15 +74,6 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Fi
 - CSS3 - Responsive styling with Flexbox/Grid
 - JavaScript - Interactive functionality
 - GitHub Pages - Deployment and hosting
-
-## Key Learning Outcomes
-- Through this project, I demonstrated proficiency in:
-- Full-stack web development from concept to deployment
-- Responsive web design principles and implementation
-- User experience design and accessibility considerations
-- Version control with Git and GitHub
-- Project planning and execution
-- Problem-solving and debugging skills
 
 ## Installation & Setup
 - To run this project locally:
