@@ -119,6 +119,12 @@ header {
     color: var(--white);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     z-index: 2;
+    background-color: rgba(0, 0, 0, 0.45);
+    padding: 2rem 3rem;
+    border-radius: 8px;
+    backdrop-filter: blur(2px);
+    width: max-content;
+    max-width: 90%;
 }
 
 .hero-text h1 {
